@@ -1,0 +1,1 @@
+steht bis jetzt alles im Jupyter Notebook: Abgabe_test_nb_jannick.ipynb
