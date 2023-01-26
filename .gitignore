@@ -1,3 +1,6 @@
 # keine sync des data directory
 
 data/
+
+*History
+*.h5
